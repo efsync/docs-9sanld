@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-sfv8kv.saturadar88.online/sitemap.xml
